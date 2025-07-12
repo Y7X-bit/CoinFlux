@@ -1,15 +1,28 @@
-# 🌍 Currency Converter
+<div align="center">
 
-A simple Python-based currency converter GUI using Tkinter and real-time exchange rate API.
+# 💱 CoinFlux  
+**A Clean & Curvy Currency Converter — Made with 💗 by Y7X**
 
-## 🔧 Features
-- Convert between major world currencies
-- Real-time rates using ExchangeRate API
-- Clean GUI with error handling
+<img src="assets/1.png" width="480" alt="CoinFlux UI"/>
 
-## 📦 Requirements
-See `requirements.txt`
+</div>
 
-## 🚀 Run
+---
+
+## ✨ Highlights
+
+- 🌑 **True AMOLED UI** — all black everything
+- 🎨 **White Text + Red Outlines**
+- 🧊 **Pill-Shaped Inputs & Buttons**
+- 🌍 **Live Currency Conversion**
+- ⚡ **Instant Results with 1-Click Convert**
+
+---
+
+## 🔧 How to Run
+
 ```bash
-python "Currency converter.py"
+git clone https://github.com/Y7X-bit/CoinFlux.git
+cd CoinFlux
+pip install -r requirements.txt
+python CoinFlux.py
