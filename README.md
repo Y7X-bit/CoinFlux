@@ -3,7 +3,8 @@
 # 💱 CoinFlux  
 **🧊 Sleek, sharp & pitch black — meet CoinFlux**
 
-A Clean & Curvy Currency Converter — Made with 💗 by Y7X
+💱 A premium desktop currency converter built with customtkinter, rocking full AMOLED mode, glowing red outlines, smooth pill-shaped UI, and smart tools like real-time rates, dropdowns, and instant conversion.
+Branded with 💗 by [Y7X-bit](https://github.com/Y7X-bit)
 
 <img src="assets/1.png" width="480" alt="CoinFlux UI"/>
 
