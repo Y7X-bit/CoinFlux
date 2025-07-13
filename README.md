@@ -1,7 +1,9 @@
 <div align="center">
 
 # 💱 CoinFlux  
-**A Clean & Curvy Currency Converter — Made with 💗 by Y7X**
+**🧊 Sleek, sharp & pitch black — meet CoinFlux**
+
+A Clean & Curvy Currency Converter — Made with 💗 by Y7X
 
 <img src="assets/1.png" width="480" alt="CoinFlux UI"/>
 
@@ -9,7 +11,7 @@
 
 ---
 
-## ✨ Highlights
+## 🌟 Features at a Glance
 
 - 🌑 **True AMOLED UI** — all black everything
 - 🎨 **White Text + Red Outlines**
@@ -19,7 +21,9 @@
 
 ---
 
-## 🔧 How to Run
+## 🖥️ Installation
+
+> Python 3.9 or later required
 
 ```bash
 git clone https://github.com/Y7X-bit/CoinFlux.git
